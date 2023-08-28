@@ -1,7 +1,9 @@
 ## Bem-vindo(a) ao meu perfil! 😄
-
-Me chamo Rafael Santos Isidro, sou **Back-End Developer** e iniciei minha trajetória na área de tecnologia há aproximadamente um ano. Atualmente tenho me dedicado ao estudo de desenvolvimento de software utilizando tecnologias como Javascript, Node js, Express, SQL, postgreSQL e Git.
  
+Me chamo Rafael Santos Isidro, sou **Back-End Developer** e iniciei minha trajetória na área de tecnologia há aproximadamente um ano. Atualmente tenho me dedicado ao estudo de desenvolvimento de software utilizando tecnologias como Javascript, Node js, Express, SQL, postgreSQL e Git.
+
+
+   
  <div>
    <a href="https://github.com/rafael-isidro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-isidro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

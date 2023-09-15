@@ -8,7 +8,6 @@
     
    <a href="https://github.com/rafael-isidro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-isidro&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-isidro&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>

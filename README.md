@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao meu perfil! 😄
  
-    Me chamo Rafael Santos Isidro, sou **Desenvolvedor Backend** e iniciei minha trajetória na área de tecnologia há aproximadamente um ano. Atualmente tenho me dedicado ao estudo de desenvolvimento de software utilizando tecnologias como Node js, Javascript, Express, SQL, postgreSQL e Git. Sou apaixonado por desafios e por conhecer novas tecnologias.
+Me chamo Rafael Santos Isidro, sou **Desenvolvedor Backend** e iniciei minha trajetória na área de tecnologia há aproximadamente um ano. 
+  Atualmente tenho me dedicado ao estudo de desenvolvimento de software utilizando tecnologias como Node js, Javascript, Express, SQL,   postgreSQL e Git. Sou apaixonado por desafios e por conhecer novas tecnologias.
 
 
    

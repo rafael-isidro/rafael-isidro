@@ -21,9 +21,9 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
 
 #### Stack Principal:
 
-![Node](https://img.shields.io/badge/node-239120?style=for-the-badge&logo=node)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node](https://img.shields.io/badge/node-239120?style=for-the-badge&logo=node)&nbsp;
 ![Express](https://img.shields.io/badge/express-3a3a3a?style=for-the-badge&logo=express)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 

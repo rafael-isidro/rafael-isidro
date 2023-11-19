@@ -3,7 +3,7 @@
 </h1>
 &nbsp;&nbsp;&nbsp;
 
-## Sobre mim
+## Sobre mim 😄
 
 Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por explorar novas tecnologias. Como Desenvolvedor Backend, embarquei nessa jornada na área de tecnologia há cerca de um ano. Minha dedicação está voltada para o estudo e aprimoramento em desenvolvimento de software, utilizando tecnologias como Node.js, JavaScript, TypeScript, Express, SQL, PostgreSQL, MongoDB e Git.
 
@@ -17,7 +17,7 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
 
 
 
-## Minhas Skills
+## Minhas Skills 💻
 
 #### Stack Principal:
 
@@ -49,7 +49,7 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
 &nbsp;
 &nbsp;
 
-## Contatos:
+## Contatos 📧
 
 <div> 
 <a href = "mailto:contato.rafaisidro225@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c42528?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

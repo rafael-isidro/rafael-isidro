@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Bem vindo(a) ao meu perfil!+👋;+Me chamo Rafael Isidro!;" />
 </h1>
 &nbsp;&nbsp;&nbsp;
+
 ## Sobre mim
 
 Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por explorar novas tecnologias. Como Desenvolvedor Backend, embarquei nessa jornada na área de tecnologia há cerca de um ano. Minha dedicação está voltada para o estudo e aprimoramento em desenvolvimento de software, utilizando tecnologias como Node.js, JavaScript, TypeScript, Express, SQL, PostgreSQL, MongoDB e Git.

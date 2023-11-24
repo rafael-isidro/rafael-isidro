@@ -52,7 +52,7 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
 ## Contatos 📧
 
 <div> 
-<a href = "mailto:contato.rafaisidro225@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c42528?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:rafaisidro225@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c42528?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-isidro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  

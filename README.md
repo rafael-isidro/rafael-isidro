@@ -31,8 +31,8 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
 
 #### Estudando Atualmente:
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-E44C30?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 
 #### Bancos de Dados:

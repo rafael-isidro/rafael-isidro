@@ -5,7 +5,7 @@
 
 ## Sobre mim 😄
 
-Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por explorar novas tecnologias. Como Desenvolvedor Backend, embarquei nessa jornada na área de tecnologia há um pouco mais de um ano. Minha dedicação está voltada para o estudo e aprimoramento em desenvolvimento de software, utilizando tecnologias como Node.js, JavaScript, TypeScript, Express, SQL, PostgreSQL, MongoDB e Git.
+Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por explorar novas tecnologias. Como Desenvolvedor Backend, embarquei nessa jornada na área de tecnologia há um pouco mais de um ano. Minha dedicação está voltada para o estudo e aprimoramento em desenvolvimento de software, utilizando tecnologias como Node.js, JavaScript, TypeScript, Express, Java, SQL, PostgreSQL, MongoDB e Git.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafael-isidro&theme=radical&mode=weekly" />

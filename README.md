@@ -23,8 +23,8 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Node](https://img.shields.io/badge/node-239120?style=for-the-badge&logo=node)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node](https://img.shields.io/badge/node-239120?style=for-the-badge&logo=node)&nbsp;
 ![Express](https://img.shields.io/badge/express-3a3a3a?style=for-the-badge&logo=express)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
@@ -34,8 +34,6 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/nestjs-E44C30?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 
 #### Bancos de Dados:
 

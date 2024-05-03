@@ -45,6 +45,7 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp;
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)&nbsp;
 ![Trello](https://img.shields.io/badge/trello-0c66e4?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-202020?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 

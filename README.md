@@ -15,44 +15,6 @@ Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por ex
  &nbsp;
  &nbsp;
 
-
-
-## Minhas Skills 💻
-
-#### Stack Principal:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node](https://img.shields.io/badge/node-239120?style=for-the-badge&logo=node)&nbsp;
-![Express](https://img.shields.io/badge/express-3a3a3a?style=for-the-badge&logo=express)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Estudando Atualmente:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-
-#### Bancos de Dados:
-
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-#### Ferramentas:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp;
-![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)&nbsp;
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)&nbsp;
-![Trello](https://img.shields.io/badge/trello-0c66e4?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-202020?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
-
-&nbsp;
-&nbsp;
-
 ## Contatos 📧
 
 <div> 

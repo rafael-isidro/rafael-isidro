@@ -7,10 +7,6 @@
 
 Olá, me chamo **Rafael Isidro**, um entusiasta por desafios e apaixonado por explorar novas tecnologias.
 
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafael-isidro&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
  &nbsp;
  &nbsp;
 
